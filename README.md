@@ -7,7 +7,9 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/96529879/206640737-9b0ab936-f5da-4319-9c57-5072a878c386.png" width="450px" alt="sample image"></a>  
 
 가장 먼저 스크린 OCR로 화면 속 텍스트 데이터를 수집하여, 이를 텍스트 전처리 모델에 넘겨주어 감성분석을 진행합니다.  
-이 분석 결과를 음악 감성분석 결과와 매치시켜 최종적으로 매핑된 음악을 사용자에게 제공하게 됩니다.
+이 분석 결과를 음악 감성분석 결과와 매치시켜 최종적으로 매핑된 음악을 사용자에게 제공하게 됩니다.  
 
-📁 multiclass-emotion-classifier  
-📁 multiclass-
+✔️ 기술별로 더 자세한 사항을 각 폴더의 리드미를 참고해주세요 :)  
+📁 **multiclass-emotion-classifier** 텍스트 감성분석과 관련한 폴더입니다.  
+📁 **multiclass-music-classifier** 음악 다중감성분류와 관련한 폴더입니다.  
+📁 **ocr** 스크린 ocr과 관련한 폴더입니다.
